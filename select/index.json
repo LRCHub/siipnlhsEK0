@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "HIMEHINA『ヴァンパイア』Cover",
+  "base_artist": "HIMEHINA",
+  "createdAt": "2026-03-04T01:48:17.857584Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HIMEHINA『琥珀の身体』",
+      "artist": "HIMEHINA Channel",
+      "has_synced": false,
+      "path": "select/pl_01_HIMEHINA『琥珀の身体』_HIMEHINA_Channel.txt"
+    }
+  ]
+}
